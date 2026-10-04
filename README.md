@@ -6,5 +6,5 @@ I recently completed my Master's degree at the University of Freiburg, Germany.
 Previously, I worked as a student research assistant at AutoML Freiburg on Hyperparameter Optimization for Deep Learning.
 
 ##Publications: google scholar
-##Personal Blog: devikaselvam.wordpress.com-->
-Personal Homepage: devikaselvam.me
+##Personal Blog: devikaselvam.wordpress.com
+Personal Homepage: devikaselvam.me-->
